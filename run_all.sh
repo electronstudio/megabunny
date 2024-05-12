@@ -16,3 +16,7 @@ cd sdl2
 ./run.sh
 cd ..
 
+cd sfml
+./run.sh
+cd ..
+

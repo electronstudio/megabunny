@@ -45,7 +45,7 @@ int main(void)
     UnloadTexture(texBunny);
 
     CloseWindow();
-    printf("Raylib | C | | %.1f |\n", mbunnies_per_second);
+    printf("Raylib | C | | %.1f\n", mbunnies_per_second);
 
     return 0;
 }

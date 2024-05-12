@@ -25,6 +25,8 @@ Raylib | Python | raylib-python-cffi | 5.1
 Raylib | Python | raylib-python-cffi (pyray) | 3.9
 Raylib | Java | Jaylib | 8.6
 SDL2 opengl | C | | 21.9
+SFML | C | | 12.4
+
 
 # See also
 
