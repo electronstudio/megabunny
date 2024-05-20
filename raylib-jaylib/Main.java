@@ -9,6 +9,10 @@ public static void main(String args[]) {
     SetTraceLogLevel(LOG_ERROR);
     InitWindow(WIDTH, HEIGHT, "raylib");
 
+    var v = new Vector2().x(4).y(6);
+
+    var p = new Sound();
+    System.out.println(p);
     var texBunny = LoadTexture("../bunny.png");
     long start, end;
     double elapsed_time, mbunnies_per_second;
