@@ -23,7 +23,8 @@ Library | Language | Binding    | mbunnies
 SDL2 opengl | C | | 21.9
 SFML | C | | 12.4
 Raylib | C | | 9.6 |
-Raylib | Java | Jaylib | 8.6
+Raylib | Java | Jaylib-FFM | 9.5
+Raylib | Java | Jaylib | 8.9
 Raylib | Python | raylib-python-jaylib | 5.9
 Raylib | Python | raylib-python-cffi | 5.1
 Raylib | Python | raylib-python-cffi (pyray) | 3.9
