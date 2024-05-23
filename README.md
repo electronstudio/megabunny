@@ -29,6 +29,15 @@ Raylib | Python | raylib-python-jaylib | 5.9
 Raylib | Python | raylib-python-cffi | 5.1
 Raylib | Python | raylib-python-cffi (pyray) | 3.9
 
+## Python versions comparison
+
+Version | mbunnies
+--- | ---
+C | 9.6
+GraalPy | 5.9
+Pypy 3.10 | 5.1
+CPython 3.10 | 3.4
+CPython 3.12 | 3.1
 
 
 
