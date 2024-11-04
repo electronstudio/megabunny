@@ -4,6 +4,10 @@ cd raylib
 ./run.sh
 cd ..
 
+cd raylib-odin
+./run.sh
+cd ..
+
 cd raylib-python-cffi
 ./run.sh
 cd ..
